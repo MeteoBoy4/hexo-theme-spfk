@@ -4,11 +4,11 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  博客首页: /Home
-  作品展示: /works
-  留言打卡: /about
-  前端导航: /FrontEndGuide
-  静心阅读: /tags
+  首页: /Home
+  归档: /archives
+  分类: /categories
+  标签: /tags
+  关于: /about
 # 光影之路: /instagram
 # 随笔: /tags/随笔
 
