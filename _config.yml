@@ -5,10 +5,9 @@
 ## Tags Cloud Page: `hexo new page tags`
 menu:
   首页: /
-  归档: /archives
-  分类: /categories
-  标签: /tags
-  关于: /about
+  所有文章: /archives
+  标签云: /tags
+  我的故事: /about
 # 光影之路: /instagram
 # 随笔: /tags/随笔
 
@@ -124,7 +123,8 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  name: https://github.com/MeteoBoy4
+  刘未鹏: http://mindhacks.cn/
+  seisman: http://seisman.info/
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
