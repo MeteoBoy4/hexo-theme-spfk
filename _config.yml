@@ -172,7 +172,7 @@ google_site: EwEJvt6m74bMgvPZitkLBvXprxcWHDA8pND7aOdQv_4
 baidu_site: fNvm9NbuR9
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X, or Baidu Analytics hash key
-google_analytics:
+google_analytics: UA-93016689-1
 baidu_analytics: 68c3286313aafcd56004949332118c3d
 
 
