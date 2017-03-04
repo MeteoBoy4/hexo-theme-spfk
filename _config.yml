@@ -168,7 +168,7 @@ baidushare: true
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
-google_site: # pFW527fHrjfI0si2w4NQ0w3cTw12AvvuohAu1PUfqKA
+google_site: EwEJvt6m74bMgvPZitkLBvXprxcWHDA8pND7aOdQv_4
 baidu_site: fNvm9NbuR9
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X, or Baidu Analytics hash key
