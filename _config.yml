@@ -23,7 +23,7 @@ favicon: img/favicon.jpg
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
-  mail: "mailto:lichiqin4@gmail.com"
+  mail: "mailto:meteoboy4@gmail.com"
   github: "https://github.com/MeteoBoy4"
   zhihu: "https://www.zhihu.com/people/LichKing/activities"
   weibo: "http://weibo.com/u/1955932927?refer_flag=1001030201_&is_all=1"
