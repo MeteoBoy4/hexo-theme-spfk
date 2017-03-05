@@ -77,7 +77,7 @@ youyan:
 background:
   on: true
   #on: false
-  background_sum: 24
+  background_sum: 17
   background_image: 109
 
 highlight_style:
